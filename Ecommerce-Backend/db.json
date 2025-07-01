@@ -6,11 +6,15 @@
       "price": 109.95,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "MHE0ixG1mXBykdGv2QDCq",
+      "image": "https://cdn.dummyjson.com/recipe-images/1.webp",
+      "title": "pizza",
+      "price": "1245",
+      "discription": "cnadsoncoads",
+      "category": "cmad"
     }
   ],
   "users": [
@@ -19,14 +23,14 @@
       "username": "admin.master",
       "email": "admin@master.com",
       "password": "123456",
-      "isAdmin": true
+      "isAdmin": false
     },
     {
-      "id": "d3h3lZaoCtLN1qPJYLHC_",
+      "id": "Ug-N6qThgaqTfW9PXyTx8",
       "username": "e23cseu1588@bennett.edu.in",
       "email": "thetimetraveler768@gmail.com",
       "password": "123456",
-      "isAdmin": false
+      "isAdmin": true
     }
   ],
   "carts": []
